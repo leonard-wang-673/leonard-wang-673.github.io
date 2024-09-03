@@ -256,7 +256,6 @@ defaults:
       share: true
       comments: true
   # _notes
-    
   - scope:
       path: ""
       type: notes
