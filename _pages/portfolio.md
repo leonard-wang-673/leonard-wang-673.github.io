@@ -32,6 +32,6 @@ XXXX
 
 
 ## Personal Statement
-During my first year at SJTU, I faced challenges adapting to the academic environment and dealing with pandemic-related restrictions. Despite initial setbacks and grade inflation in parallel classes, my academic performance steadily improved. I took additional mathematics courses and enrolled in General Relativity, while also auditing Gauge Field Theory, only reserved for graduate students. I further enhanced my understanding of theoretical physics through self-study, YouTube lectures, and participation in the Southeast University Summer School on String Theory, Field Theory, and Holography. 
+During my first year at SJTU, I faced challenges adapting to the academic environment and dealing with pandemic-related restrictions. Despite initial setbacks and grade inflation in parallel classes, my academic performance steadily improved. I took additional mathematics courses and enrolled in **General Relativity**, while also auditing **Gauge Field Theory**, only reserved for graduate students. I further enhanced my understanding of theoretical physics through self-study and participation in the **Southeast University Summer School on String Theory, Field Theory, and Holography**. 
 
 I demonstrate strong self-learning abilities and a deep passion for theoretical physics beyond my coursework. To learn more about me, see my notes
