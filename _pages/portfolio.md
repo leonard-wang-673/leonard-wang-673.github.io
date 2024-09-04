@@ -9,7 +9,7 @@ redirect_from:
 
 
 # Academic Experience
-During my undergraduate studies at **SJTU**(Shanghai Jiao Tong University), I demonstrated strong academic performance, which provided me with the opportunity to study abroad as an exchange student at **UNSW** (The University of New South Wales) for one semester. Additionally, I participated Future Scientist Exchange Program at **USTC**(University of Science and Technology of China)as a six-week summer research program. These experiences significantly enhanced both my academic profile and my research skills.
+During my undergraduate studies at <span style="color:red">**SJTU**(Shanghai Jiao Tong University)</span>,  I demonstrated strong academic performance, which provided me with the opportunity to study abroad as an exchange student at <span style="color:green">**UNSW** (The University of New South Wales)</span> for one semester. Additionally, I participated Future Scientist Exchange Program at <span style="color:blue">**USTC**(University of Science and Technology of China)</span> as a six-week summer research program. These experiences significantly enhanced both my academic profile and my research skills.
 
 
 
