@@ -11,10 +11,13 @@ redirect_from:
 ### Academic Experience
 During my undergraduate studies at **SJTU**(Shanghai Jiao Tong University), I demonstrated strong academic performance, which provided me with the opportunity to study abroad as an exchange student at **UNSW** (The University of New South Wales) for one semester. Additionally, I participated Future Scientist Exchange Program at **USTC**(University of Science and Technology of China)as a six-week summer research program. These experiences significantly enhanced both my academic profile and my research skills.
 
-My academic performance is partially displayed as follows:
+
 
 
 ### Grades
+
+My academic performance is partially displayed as follows:
+
 | Institution                         | Period            | Year      | Score  |Rank|
 |------------|-------------------|-----------|--------|--------|
 | SJTU       | Sep 2021 - Jun 2022 | Freshman | 80.1/100 |21/33|
