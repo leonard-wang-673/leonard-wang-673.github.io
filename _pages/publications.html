@@ -17,6 +17,9 @@ author_profile: true
         .project h2, .project p { margin: 0; }
         .red-header { color: red; }
     </style>
+    <!-- 引入 MathJax -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 <body>
   <h4 class="red-header">Click the triangle to see details</h4>
@@ -90,6 +93,9 @@ author_profile: true
             <p>In progress...</p>
         </details>
     </div>
+  <script>
+      MathJax.typesetPromise();
+  </script>
 
 </body>
 </html>
