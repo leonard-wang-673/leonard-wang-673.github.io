@@ -6,11 +6,15 @@ redirect_from:
   - /portfolio/
   - /portfolio.html
 ---
-During my undergraduate studies at **SJTU**(Shanghai Jiao Tong University), I demonstrated strong academic performance, which provided me with the opportunity to study abroad as an exchange student at **UNSW** (The University of New South Wales), ranked 19th in the QS World University Rankings, for one semester. Additionally, I participated in a six-week summer research program FuSEP(Future Scientist Exchange Program) at **USTC**(University of Science and Technology of China). These experiences significantly enhanced both my academic profile and my research skills.
+
+
+### Academic Experience
+During my undergraduate studies at **SJTU**(Shanghai Jiao Tong University), I demonstrated strong academic performance, which provided me with the opportunity to study abroad as an exchange student at **UNSW** (The University of New South Wales) for one semester. Additionally, I participated Future Scientist Exchange Program at **USTC**(University of Science and Technology of China)as a six-week summer research program. These experiences significantly enhanced both my academic profile and my research skills.
 
 My academic performance is partially displayed as follows:
 
 
+### Grades
 | Institution                         | Period            | Year      | Score  |Rank|
 |------------|-------------------|-----------|--------|--------|
 | SJTU       | Sep 2021 - Jun 2022 | Freshman | 80.1/100 |21/33|
@@ -19,3 +23,12 @@ My academic performance is partially displayed as follows:
 | UNSW      | Sep 2023 - Dec 2023 | Term 3    | 87.3/100 |-   |
 
 
+### ScholarShip and honor
+
+XXXX
+
+
+#### Personal Statement
+During my first year at SJTU, I faced challenges adapting to the academic environment and dealing with pandemic-related restrictions. Despite initial setbacks and grade inflation in parallel classes, my academic performance steadily improved. I took additional mathematics courses and enrolled in General Relativity, while also auditing Gauge Field Theory, only reserved for graduate students. I further enhanced my understanding of theoretical physics through self-study, YouTube lectures, and participation in the Southeast University Summer School on String Theory, Field Theory, and Holography. 
+
+I demonstrate strong self-learning abilities and a deep passion for theoretical physics beyond my coursework. To learn more about me, see my notes
