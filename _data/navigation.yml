@@ -12,12 +12,12 @@ main:
 
   
     
-  - title: "Grades"
+  - title: "Undergraduate Grades"
     url: /portfolio/
 
   - title: "Physics Notes"
     url: /teaching/ 
-    
+
   - title: "Research Experience"
     url: /publications/
         
