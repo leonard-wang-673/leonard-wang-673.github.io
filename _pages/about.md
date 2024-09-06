@@ -13,9 +13,9 @@ Hello, I am Wang Liang, and you can call me Leonard. I am a third-year undergrad
 
 During the summer schools, I gained extensive knowledge of the latest developments in hep-th. I attended two summer schools at Southeast University [SEU Summer School](../assets/SEU%202023+2024%20Topics.pdf), where I delved into advanced theoretical physics concepts. My summer research projects introduced me to string theory and the AdS/CFT correspondence. I am particularly fascinated by cosmology and inflation, having studied topics such as inflation, cosmological perturbations, and the cosmological bootstrap. [Refer to my study notes](../_pages/teaching.html).
 
-Although my research career started relatively late, with professors assigning mostly [reading and learning tasks](../_pages/publications.html), my first formal research experience began this summer. I am currently working on twistor operator correlations in $AdS_3/CFT_2$ under the guidance of [Professor Peng Cheng](https://kits.ucas.ac.cn/index.php/people/faculty/44-faculty/195-faculty-pengcheng). 
+Although my research career started relatively late, with professors assigning mostly [reading and learning tasks](../_pages/publications.html), my first formal research experience began this summer. I am currently working on twistor operator correlations in \$AdS_3/CFT_2\$ under the guidance of [Professor Peng Cheng](https://kits.ucas.ac.cn/index.php/people/faculty/44-faculty/195-faculty-pengcheng). 
 
 
 ### More Info
 
-Here you can find my  [Curriculum Vitae](../assets/My_CV.pdf) and  [Transcript](../assets/Transcript.pdf). You can contact me through [Email](mailto:WangLiang-021@sjtu.edu.cn)  / [Wechat](../images/wechat.jpg) 
+Here you can find my  [Curriculum Vitae](../assets/My_CV.pdf) and  [Transcript](../assets/Transcript.pdf). You can contact me through [Email](mailto:WangLiang-021@sjtu.edu.cn)  / [Wechat](../images/wechat.jpg) if needed. 
