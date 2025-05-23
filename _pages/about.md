@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 ### About me
-
-Hello! Welcome to my personal webpage. I am Wang Liang, or you can call me Leonard. I am aspiring to be a theoretical physicist and am about to graduate from the [School of Physics and Astronomy](https://www.physics.sjtu.edu.cn/en/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). At present, I am actively seeking more opportunities to delve deeper into theoretical physics.
+Hello! Welcome to my personal webpage. I am Wang Liang, or you can call me Leonard. I am aspiring to be a theoretical physicist and am about to graduate from the School of Physics and Astronomy at Shanghai Jiao Tong University. At present, I am actively seeking more opportunities to delve deeper into theoretical physics.
 
 My keen interest in formal theory has led me to gain some study and research experiences in areas such as inflation, the Sachdev–Ye–Kitaev (SYK) model, and holography. And this webpage mainly keeps track of my research experiences, notes, and thesis. Hope you enjoy it!
 
+
+<!-- Hello! Welcome to my personal webpage. I am Wang Liang, or you can call me Leonard. I am aspiring to be a theoretical physicist and am about to graduate from the [School of Physics and Astronomy](https://www.physics.sjtu.edu.cn/en/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). At present, I am actively seeking more opportunities to delve deeper into theoretical physics. -->
 
 <!-- I have excellent [academic performance](../_pages/portfolio.html) and have a deep passion for theoretical physics. My interests span a variety of fields, including hep-th, gr-qc, and qi-qc, and I aspire to pursue research in these areas during my PhD and throughout my career.
 
