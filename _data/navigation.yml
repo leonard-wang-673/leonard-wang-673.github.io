@@ -12,10 +12,10 @@ main:
 
   
     
-  - title: "Undergraduate Study"
-    url: /portfolio/
+  # - title: "Undergraduate Study"
+  #   url: /portfolio/
 
-  - title: "Physics Notes"
+  - title: "Notes"
     url: /teaching/ 
 
   - title: "Research Experience"
