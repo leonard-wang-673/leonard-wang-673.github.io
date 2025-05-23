@@ -5,7 +5,121 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Research</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff; /* 白色背景 */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: #333;
+        }
+        .container {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 20px;
+            width: 90%;
+            max-width: 1200px;
+        }
+        .block {
+            background-color: rgba(255, 255, 255, 0.9); /* 半透明白色背景 */
+            border: 2px solid;
+            border-radius: 15px;
+            padding: 20px;
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            width: calc(33.333% - 20px); /* 三个块等宽，减去间隙 */
+        }
+        .block:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+        .block h3 {
+            font-size: 24px;
+            margin: 0 0 10px;
+        }
+        .toggle-button {
+            font-size: 24px;
+            margin-left: 10px;
+            cursor: pointer;
+            color: #333;
+        }
+        .content {
+            display: none;
+            margin-top: 10px;
+            text-align: left;
+            padding: 10px;
+            background-color: rgba(255, 255, 255, 0.8); /* 半透明白色背景 */
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .content p {
+            font-size: 14px;
+            color: #333;
+        }
+        /* 设置每个块的颜色 */
+        .block-inflation {
+            background-color: white; /* 浅蓝色 */
+        }
+        .block-syk {
+            background-color: white; /* 浅粉色 */
+        }
+        .block-holography {
+            background-color: white; /* 浅绿色 */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="block block-inflation">
+            <h3 style="color: lightblue;">Inflation <span class="toggle-button" onclick="toggleContent('inflation')">+</span></h3>
+            <div id="inflation" class="content">
+                <p>During my third year of college, I studied Classical Inflation under the guidance of Prof Yvonne (UNSW). I compiled my learnings into a <a href="../assets/cosmology classical.pdf" target="_blank">summary report</a>.</p>
+            </div>
+        </div>
+        <div class="block block-syk">
+            <h3 style="color: lightpink;">Sachdev–Ye–Kitaev Model <span class="toggle-button" onclick="toggleContent('syk')">+</span></h3>
+            <div id="syk" class="content">
+                <p>Here is the main content of my <a href="../assets/Bachelor Project--SYK and Wormhole.pdf" target="_blank">undergraduate thesis</a>, covering the essential properties of the Sachdev-Ye-Kitaev model, discussions on the duality between Jackiw-Teitelboim gravity and the SYK model, key aspects of the Maldacena-Qi model and its extension.</p>
+            </div>
+        </div>
+        <div class="block block-holography">
+            <h3 style="color: lightgreen;">Holography <span class="toggle-button" onclick="toggleContent('holography')">+</span></h3>
+            <div id="holography" class="content">
+                <p>Here is some basic string theory notes (To be updated) I learned to get a handle on AdS<sub>5</sub>/CFT<sub>4</sub>. And this is a reading report in the form of a poster during the FUSEP program at USTC. It lays out the key features in building <a href="../assets/adscft.pdf" target="_blank">AdS<sub>5</sub>/CFT<sub>4</sub></a>.</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleContent(id) {
+            var content = document.getElementById(id);
+            var button = document.querySelector(`[onclick="toggleContent('${id}')"]`);
+            if (content.style.display === "block") {
+                content.style.display = "none";
+                button.textContent = "+";
+            } else {
+                content.style.display = "block";
+                button.textContent = "-";
+            }
+        }
+    </script>
+</body>
+
+
+<!-- ###############################2025 5 23 ############################### -->
+
+<!-- <style>
   a[href$=".pdf"] {
     color: lightblue; /* PDF链接的颜色为浅绿色 */
     font-weight: bold; /* PDF链接的字体加粗 */
@@ -14,20 +128,16 @@ author_profile: true
     color: lightgreen; /* 已访问的PDF链接的颜色也为浅绿色 */
     font-weight: bold; /* 已访问的PDF链接的字体加粗 */
   }
-</style>
-
-
-<!-- ###############################2025 5 23 ############################### -->
-
-
+</style> -->
+<!-- 
 <h2>Cosmology and Inflation</h2>
 
 <p>
 During my third year of college, I studied Classical Inflation under the guidance of Prof Yvonne(UNSW). I compiled my learnings into a <a href="../assets/cosmology classical.pdf" target="_blank"> summary report </a>.</p>
-
+ -->
 
 <!-- <a href="../assets/String-Theory.pdf" target="_blank"></a> -->
-
+<!-- 
 <h2>String Theory and Holography</h2>
 <p>
 Here is some basic string theory notes(To be updated) I learned to get a handle on AdS<sub>5</sub>/CFT<sub>4</sub>. And this is a reading report in the form as a poster during the FUSEP program at USTC. It lays out the key features in building  <a href="../assets/adscft.pdf" target="_blank">AdS<sub>5</sub>/CFT<sub>4</sub> </a>.
@@ -36,7 +146,7 @@ Here is some basic string theory notes(To be updated) I learned to get a handle 
 <h2>SYK</h2>
 
 <p>
-Here is the main content of my <a href="../assets/Bachelor Project--SYK and Wormhole.pdf" target="_blank">undergraduate thesis</a>, covering the essential properties of the Sachdev-Ye-Kitaev model, discussions on the duality between Jackiw-Teitelboim gravity and the SYK model, key aspects of the Maldacena-Qi model and its extension.</p>
+Here is the main content of my <a href="../assets/Bachelor Project--SYK and Wormhole.pdf" target="_blank">undergraduate thesis</a>, covering the essential properties of the Sachdev-Ye-Kitaev model, discussions on the duality between Jackiw-Teitelboim gravity and the SYK model, key aspects of the Maldacena-Qi model and its extension.</p> -->
 
 <!-- ###############################2025 5 23 ############################### -->
 
