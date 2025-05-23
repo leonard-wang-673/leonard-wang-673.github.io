@@ -48,14 +48,8 @@ author_profile: true
             font-size: 24px;
             margin: 0 0 10px;
         }
-        .toggle-button {
-            font-size: 24px;
-            margin-left: 10px;
-            cursor: pointer;
-            color: #333;
-        }
         .content {
-            display: none;
+            display: block; /* 默认展开 */
             margin-top: 10px;
             text-align: left;
             padding: 10px;
@@ -82,40 +76,25 @@ author_profile: true
 <body>
     <div class="container">
         <div class="block block-inflation">
-            <h3 style="color: lightblue;">Inflation <span class="toggle-button" onclick="toggleContent('inflation')">+</span></h3>
-            <div id="inflation" class="content">
+            <h3 style="color: lightblue;">Inflation</h3>
+            <div class="content">
                 <p>During my third year of college, I studied Classical Inflation under the guidance of Prof Yvonne (UNSW). I compiled my learnings into a <a href="../assets/cosmology classical.pdf" target="_blank">summary report</a>.</p>
             </div>
         </div>
         <div class="block block-syk">
-            <h3 style="color: lightpink;">Sachdev–Ye–Kitaev Model <span class="toggle-button" onclick="toggleContent('syk')">+</span></h3>
-            <div id="syk" class="content">
+            <h3 style="color: lightpink;">Sachdev–Ye–Kitaev Model</h3>
+            <div class="content">
                 <p>Here is the main content of my <a href="../assets/Bachelor Project--SYK and Wormhole.pdf" target="_blank">undergraduate thesis</a>, covering the essential properties of the Sachdev-Ye-Kitaev model, discussions on the duality between Jackiw-Teitelboim gravity and the SYK model, key aspects of the Maldacena-Qi model and its extension.</p>
             </div>
         </div>
         <div class="block block-holography">
-            <h3 style="color: lightgreen;">Holography <span class="toggle-button" onclick="toggleContent('holography')">+</span></h3>
-            <div id="holography" class="content">
+            <h3 style="color: lightgreen;">Holography</h3>
+            <div class="content">
                 <p>Here is some basic string theory notes (To be updated) I learned to get a handle on AdS<sub>5</sub>/CFT<sub>4</sub>. And this is a reading report in the form of a poster during the FUSEP program at USTC. It lays out the key features in building <a href="../assets/adscft.pdf" target="_blank">AdS<sub>5</sub>/CFT<sub>4</sub></a>.</p>
             </div>
         </div>
     </div>
-
-    <script>
-        function toggleContent(id) {
-            var content = document.getElementById(id);
-            var button = document.querySelector(`[onclick="toggleContent('${id}')"]`);
-            if (content.style.display === "block") {
-                content.style.display = "none";
-                button.textContent = "+";
-            } else {
-                content.style.display = "block";
-                button.textContent = "-";
-            }
-        }
-    </script>
 </body>
-
 
 
 <!-- ###############################2025 5 23 ############################### -->
