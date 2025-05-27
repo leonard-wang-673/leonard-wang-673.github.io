@@ -13,6 +13,8 @@ Welcome to my personal webpage. I am Wang Liang, or you can call me Leonard. I a
 
 My keen interest in formal theory has led me to gain some study and research experiences in areas such as **<font color="#add8e6">Inflation</font>**, **<font color="#ffc0cb">Sachdev–Ye–Kitaev model</font>**, and **<font color="#90ee90">Holography</font>**. And this webpage mainly keeps track of my research experiences, notes, and thesis. Hope you enjoy it!
 
+If you are interested in my academic journey, here is my [Curriculum Vitae](../assets/Liang_Wang-CV.pdf.pdf). (Updated in 2025.05)
+
 
 <!-- Hello! Welcome to my personal webpage. I am Wang Liang, or you can call me Leonard. I am aspiring to be a theoretical physicist and am about to graduate from the [School of Physics and Astronomy](https://www.physics.sjtu.edu.cn/en/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). At present, I am actively seeking more opportunities to delve deeper into theoretical physics. -->
 
